@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `Prints`
-![](https://github.com/mott4ao/portfolio/blob/master/1.png?raw=true =100x20)
+![alt text](<https://raw.githubusercontent.com/mott4ao/portfolio/master/1.png>)
+![alt text](<https://raw.githubusercontent.com/mott4ao/portfolio/master/2.png>)
 
 ## Available Scripts
 
